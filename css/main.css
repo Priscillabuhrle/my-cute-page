@@ -1,0 +1,111 @@
+/* header */
+header{
+	background-color: #F9AC16;
+}
+.enlaces{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	font-family: Arial;
+	margin: 50px;
+	float: left;
+	font-weight: 600;
+}
+li{
+	list-style: none
+}
+.primero{
+     margin-left: 500px;
+}
+/* container principal*/
+
+.containergato{
+	background-image: url(../images/hombre.png);
+	background-size: 100%;
+	height: 600px;
+	background-repeat: no-repeat;
+}
+.firma{
+	font-family: 'Pacifico', cursive;
+	font-size: 70px;
+	margin: 300px 50px 20px 980px;
+	color:black;
+}
+.logo{
+	margin-top: 30px;
+	margin-left: 140px; 
+}
+.aprendiendo{
+	font-size: 22px;
+	margin-top: 30px;
+	margin-left: 40px;
+	font-weight: 600;
+}
+/* container segundo*/
+.containerpersonal{
+	background-color: #EEF5AF;
+}
+.fotoyo{
+	border: 1px solid black;
+	padding:5px;
+	margin-top: 60px;
+	margin-left: 200px;
+	width: 50%;
+}
+h3{
+	margin-top: 70px;
+	margin-left: 140px;
+}
+.cuento{
+	margin: 90px 70px 0 70px;
+	font-family: Arial;
+	font-size: 15px;
+}
+/* container 4 fotos*/
+.containercuatrofotos{
+	background-color: #F75F1C;
+}
+h2{
+	margin-top: 60px;
+	margin-left: 280px;
+}
+h4{
+	margin-left: 230px;
+	margin-top: 20px;
+}
+.primerdibujo{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	margin: 0 10px 30px 15px;
+
+}
+.col-6{
+	width: 40%;
+}
+.uno{
+	margin: 145px 0px 30px 290px;
+}
+.doble{
+	margin-left: 140px;
+}
+
+.dos{
+	margin-top: 145px;
+	margin-left: 0;
+}
+/* pie de pagina*/
+footer{
+	background-color: #D3D3D2;
+}
+.contactos{
+	text-align: center;
+	font-size: 20px;
+	font-weight: 600
+}
+.pie{
+	margin-right: 25px;
+}
+.tw{
+	margin-left: 520px;
+}
